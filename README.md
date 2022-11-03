@@ -3,6 +3,6 @@
 -* Frontend, Reactjs
 -* Data Base, Mysql
 
-## About System
+## Features
 PHP = 8.2
 Mysql = 7.4
