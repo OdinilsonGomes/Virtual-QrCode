@@ -1,0 +1,6 @@
+[submodule "virtual-qr-code-bacend-laravel"]
+	path = virtual-qr-code-bacend-laravel
+	url = https://github.com/OdinilsonGomes/virtual-qr-code-bacend-laravel.git
+[submodule "virtual-qr-code-frontend-react"]
+	path = virtual-qr-code-frontend-react
+	url = https://github.com/OdinilsonGomes/virtual-qr-code-frontend-react.git
